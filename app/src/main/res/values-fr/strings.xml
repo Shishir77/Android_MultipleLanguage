@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Block 02</string>
+    <string name="textView_prompt">Animal Channus</string>
+    <string name="dog">Kukur</string>
+    <string name="cat">Biralo</string>
+    <string name="pig">Sungur</string>
+    <string name="toastMessage">Tapaile channu bho</string>
+</resources>
